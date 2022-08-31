@@ -117,9 +117,9 @@ main {
 .auther p {
   color: hsl(215deg, 51%, 70%);
   display: inline-block;
-  font-style: normal;
 }
 .auther p .auther-name {
+  font-style: normal;
   color: #fff;
 }
 .auther p .auther-name:hover {
